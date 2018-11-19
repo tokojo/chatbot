@@ -36,6 +36,8 @@ rec_stop = function(){
   console.log(mediaRecorder)
   mediaRecorder.stop();
   mediaRecorder.ondataavailable = function(e) {
+    console.log(e.data)
+    console.log(URL.createObjectURL(e.data))
     document.getElementById('player').src = URL.createObjectURL(e.data);
   }
   localstream.getTracks().forEach(track => track.stop());
