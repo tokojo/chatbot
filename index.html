@@ -61,4 +61,17 @@ document.getElementById('recorder').onclick = function(){
 }
 </script>
 
+<br>
+
+<input class="text" value="Web Speech API を使ってみよう！"/>
+<button onclick="speak()">speak()</button>
+<script>
+function speak(){
+  var text = document.querySelector('.text').value;
+  speechSynthesis.speak(
+    new SpeechSynthesisUtterance(text)
+  );
+}
+</script>
+
 </html>
