@@ -39,5 +39,5 @@ foreach ($results as $result) {
     echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
 }
 
-print_r($results);
+print_r($_FILES);
 ?>
