@@ -31,7 +31,6 @@ $options = [
     'sampleRateHertz' => 16000,
 ];
 
-# Detects speech in the audio file
 //$results = $speech->recognize(fopen($fileName, 'r'), $options);
 
 //foreach ($results as $result) {
