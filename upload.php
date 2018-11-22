@@ -24,7 +24,7 @@ $speech = new SpeechClient([
 # wav -> flac
 $flac = "wave.flac";
 $command = "ffmpeg -i $output $flac";
-exec($command, $output, $res);
+exec($command, $out, $res);
 if($res) return "Error Command";
 
 # The audio file's encoding and sample rate
@@ -39,5 +39,5 @@ foreach ($results as $result) {
     echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
 }
 
-print_r($_FILES);
+print_r($command);
 ?>
