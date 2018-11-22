@@ -13,7 +13,7 @@ $output = $_FILES['audio_data']['name'].".wav";
 move_uploaded_file($input, $output);
 
 # Your Google Cloud Platform project ID
-$projectId = 'lucid-defender-223310';
+$projectId = 'tactile-stack-223313';
 
 # Instantiates a client
 $speech = new SpeechClient([
