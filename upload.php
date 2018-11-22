@@ -26,7 +26,7 @@ $flac = "wave.flac";
 $command = "ffmpeg -i $output $flac";
 exec($command, $out, $res);
 if($res) {
-	echo "Error Command: $command";
+	echo "Error Command: $command, ";
 	return;
 }
 
