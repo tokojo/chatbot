@@ -24,7 +24,7 @@ $speech = new SpeechClient([
 # wav -> flac
 $flac = "wave.flac";
 $command = "ffmpeg -i $output $flac";
-exec($command, $out, $res);
+exec($command, $output, $res);
 if($res) return "Error Command";
 
 # The audio file's encoding and sample rate
