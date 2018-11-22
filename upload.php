@@ -22,18 +22,21 @@ $speech = new SpeechClient([
     'languageCode' => 'ja-JP',
 ]);
 
-# The name of the audio file to transcribe
-$fileName = $output;
+# wav -> flac
+$flac = "wave.flac";
+$command = "ffmpeg -i $output $flac";
+exec($command, $out, $res);
+if($res) return "Error Command";
 
 # The audio file's encoding and sample rate
 $options = [
-    'encoding' => 'LINEAR16',
+    'encoding' => 'FLAC',
     'sampleRateHertz' => 16000,
 ];
 
-//$results = $speech->recognize(fopen($fileName, 'r'), $options);
+$results = $speech->recognize(fopen($flac, 'r'), $options);
 
-//foreach ($results as $result) {
-//    echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
-//}
+foreach ($results as $result) {
+    echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
+}
 ?>
