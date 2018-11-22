@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lucid-defender-223310",
+  "private_key_id": "e1c1a33652c6077520c9bac8382f1bcea7479074",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCii7kBFRlD54T3\nGhzpA30DAMHaqyDJjZI6EzaQdhbIxzWdAQgQ16V9UlpSfuD9wE2gjxatesqrONgZ\nBvkNivSVIncjcrKQ9X1XsqlqkpNcZroeNqYpXl7G4SEZaenccJ93Q95N1LoxaLgq\nrXPEtUlPc1nYaTGp13uGlorqxDYDMbda0Y8xTH9rK35NLq49T/lLwxHrHwZtOU8x\nLzeuZxVoObwV9FHLsIJWbRSxb7Ax7Zqk4ioLp8CqkReKfrRx/ofthnoK6m1Awo5c\nUR+Hshw8e+SuGMf7pBb0V5oQtPsllxH4wEKc8T9wuofbOLnKY7/xu+BXnrgbbY1e\nJ9RhGomHAgMBAAECggEAKbiOUGJPfVfwD5LCx+ZO0JYBq/RPspwlY8WptDOzTm6f\nasCohtYrEnswVstdSZRx+Fux2O5TFda91NKu21SGyb6ycMVQYxe3x+pCROoBa+6s\nJ/Qj+ytPTWHcoo7GaX/41l5zsWuALQ1xc/bYZ62Wdw+nCH6bsjnuaVG7r12UdYYE\nkacIszcgw9DxkiLYbAjqaAEH+ND7pVaDrj6RpTsYY+sHThByytngdyokUho8JeOt\nQy9SD3NTIF2FAF04j9AgoFGa3QyKoxa0fWkLmIDqUW3h285rdaWiHu3xJjiq1o/o\nt0H4gkCNGB6VHstkdkkD5xPaKpQcniq1MUkdnGjMoQKBgQDgv74MLHRB8c5cVGbk\nfrZU2AzE0ZA8GgoHlIozBehwEftQJSaSVqrZoskOuNtkUvg+OHIw27te+vl4XDmH\nIYDEZwflt2MWRaVDAfSZXa2VCbhdzplFT4+55l4awbnJQjoW9gt006QLy6iKhnnV\ntJy0zTSZWzbDGsjbXYX/bRyGoQKBgQC5JcUATWrTgATOOPdaXHz6oO9ozsJKbDtq\nkp6NTTWzf2N7srcqZsJ6rCDyEaavK6fEP0J5PXowAHgqvLxmmrmNEPzr7g9adNXZ\nbqeohutpmbb1oZt6bDShaHarU22IDW5qtICnOA3dOxuicJCrCQ4aoFATXY65NkDq\npXHyso+nJwKBgQDBx1DbOjD68rwUi4kzlbUrriRERtPvnhvrsTz/BScGCdr/nSiG\noEcq4tor4WL4OzlinFSIn8wL9qTGC+5l/pMBxDvg6p96go4dGkCFQ2n4yKq35vvr\n8M9hX6jftQy05G8lgPsbvacBrJUi6xN9GP7MPOoPF8A9tIhd62MveipQQQKBgHNL\nZNkiXJKmVtfAu6/GhoFgNJX0oyLLMVjVQuzFFtrXSjEegldiNFtF0yJLAZx1t/xK\nVG/Ba9R2hl4+t6fBVCjXWljlHyR6Oy0ybi9RDUnuUfO2Fmbu+PtGXRelVUDy9D54\nduEq099fTn8iT8RiWCkWiab1jMojUduM+V9j+HbjAoGAbDH70M4/wwBZ+qHss2f2\nEx5G9iPrDx0Sm3zGdziR/Uv3a/ftMFzn4YQ03X+KPYRESnV0qF52jow9L1GgQZPs\nnwQwcBUgssJTkDnBxUjhZFr62LR/OjKupX64vomGMGjqfL4K1+AMmfHr7TtsKd9v\nqDZKQKg7YvFeoaI0Xe4oaqU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-388@lucid-defender-223310.iam.gserviceaccount.com",
+  "client_id": "113606552011620604828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-388%40lucid-defender-223310.iam.gserviceaccount.com"
+}

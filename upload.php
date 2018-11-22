@@ -1,10 +1,40 @@
 <?php
-print_r($_FILES); //this will print out the received name, temp name, type, size, etc.
+
+# Includes the autoloader for libraries installed with composer
+require __DIR__ . '/vendor/autoload.php';
+
+# Imports the Google Cloud client library
+use Google\Cloud\Speech\SpeechClient;
+
+//print_r($_FILES); 
 $size = $_FILES['audio_data']['size']; //the size in bytes
-$input = $_FILES['audio_data']['tmp_name']; //temporary name that PHP gave to the uploaded file
+$input = $_FILES['audio_data']['tmp_name'];
 $output = $_FILES['audio_data']['name'].".wav"; //letting the client control the filename is a rather bad idea
 //move the file from temp name to local folder using $output name
 move_uploaded_file($input, $output);
 
-print("php");
+# Your Google Cloud Platform project ID
+$projectId = 'lucid-defender-223310';
+
+# Instantiates a client
+$speech = new SpeechClient([
+    'projectId' => $projectId,
+    'languageCode' => 'ja-JP',
+]);
+
+# The name of the audio file to transcribe
+$fileName = $output;
+
+# The audio file's encoding and sample rate
+$options = [
+    'encoding' => 'LINEAR16',
+    'sampleRateHertz' => 16000,
+];
+
+# Detects speech in the audio file
+$results = $speech->recognize(fopen($fileName, 'r'), $options);
+
+foreach ($results as $result) {
+    echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
+}
 ?>
