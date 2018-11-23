@@ -32,8 +32,7 @@ if($res) {
 
 # The audio file's encoding and sample rate
 $options = [
-    'encoding' => 'FLAC',
-    'sampleRateHertz' => 16000,
+    'encoding' => 'FLAC'
 ];
 
 $results = $speech->recognize(fopen($flac, 'r'), $options);
