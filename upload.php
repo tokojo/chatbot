@@ -22,7 +22,7 @@ $speech = new SpeechClient([
 ]);
 
 # wav -> flac
-$flac = "wave.flac";
+$flac = "hirosi.flac";
 $command = "ffmpeg -i $output $flac";
 exec($command, $out, $res);
 if($res) {
