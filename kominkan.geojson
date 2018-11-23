@@ -1,0 +1,65 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.642508,35.820897 ]
+    },
+    "properties": {
+    "名称":"西部福祉センター・美笹公民館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680859,35.812624 ]
+    },
+    "properties": {
+    "名称":"上戸田地域交流センター「あいパル」"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.669614,35.806722 ]
+    },
+    "properties": {
+    "名称":"新曽南多世代交流館「さくらパル」"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.649253,35.815437 ]
+    },
+    "properties": {
+    "名称":"笹目コミュニティセンター「コンパル」"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687355,35.810629 ]
+    },
+    "properties": {
+    "名称":"東部福祉センター・下戸田公民館・東部連絡所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.663926,35.814224 ]
+    },
+    "properties": {
+    "名称":"新曽福祉センター・新曽公民館・勤労福祉センター"
+    }
+  }
+]
+}
