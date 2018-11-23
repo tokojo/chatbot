@@ -11,7 +11,8 @@ $size = $_FILES['audio_data']['size'];
 $input = $_FILES['audio_data']['tmp_name'];
 $output = $_FILES['audio_data']['name'] . time() .".wav"; 
 if ($res = move_uploaded_file($input, $output)) {
-    return $res;
+    print_r($res);
+    return;
 }
 
 $projectId = 'tactile-stack-223313';
