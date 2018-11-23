@@ -6,7 +6,7 @@ require __DIR__ . '/vendor/autoload.php';
 # Imports the Google Cloud client library
 use Google\Cloud\Speech\SpeechClient;
 
-//print_r($_FILES); 
+print_r($_FILES); 
 $size = $_FILES['audio_data']['size']; 
 $input = $_FILES['audio_data']['tmp_name'];
 $output = $_FILES['audio_data']['name'] . time() .".wav"; 
