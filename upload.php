@@ -20,7 +20,7 @@ $speech = new SpeechClient([
 
 # wav -> flac
 $flac = "wave.flac";
-$command = "ffmpeg -i -y $output $flac";
+$command = "ffmpeg -y -i $output $flac";
 exec($command, $out, $res);
 if($res) {
 	echo "Error Command: $command, ";
