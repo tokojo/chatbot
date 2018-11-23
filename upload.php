@@ -10,10 +10,7 @@ use Google\Cloud\Speech\SpeechClient;
 $size = $_FILES['audio_data']['size']; 
 $input = $_FILES['audio_data']['tmp_name'];
 $output = $_FILES['audio_data']['name'] . time() .".wav"; 
-if ($res = move_uploaded_file($input, $output)) {
-    print_r($res);
-    return;
-}
+move_uploaded_file($input, $output)
 
 $projectId = 'tactile-stack-223313';
 $speech = new SpeechClient([
@@ -40,6 +37,4 @@ $results = $speech->recognize(fopen($flac, 'r'), $options);
 foreach ($results as $result) {
     echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
 }
-
-print_r($results);
 ?>
