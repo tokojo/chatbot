@@ -23,13 +23,14 @@ $speech = new SpeechClient([
 
 # wav -> flac
 $flac = "hirosi.flac";
+/*
 $command = "ffmpeg -i $output $flac";
 exec($command, $out, $res);
 if($res) {
 	echo "Error Command: $command, ";
 	return;
 }
-
+*/
 # The audio file's encoding and sample rate
 $options = [
     'encoding' => 'FLAC'
