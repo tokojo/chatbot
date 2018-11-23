@@ -27,7 +27,6 @@ if($res) {
 	return;
 }
 
-# The audio file's encoding and sample rate
 $options = [
     'encoding' => 'FLAC'
 ];
@@ -40,9 +39,9 @@ if( !empty($results) ) {
 }
 
 if(strpos($text,'公園') !== false){
-  
+  return $text;
 } elseif {
-    
+  return $text;
 }
-echo $text
+echo $text;
 ?>
