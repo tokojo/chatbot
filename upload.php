@@ -35,7 +35,7 @@ $results = $speech->recognize(fopen($flac, 'r'), $options);
 
 $text = "";
 if( !empty($results) ) {
-   $text = $result->alternatives()[0]['transcript'];
+   $text = $results->alternatives()[0]['transcript'];
 }
 
 if( strpos($text, '公園') !== false){
