@@ -36,11 +36,11 @@ $options = [
     'sampleRateHertz' => 16000,
 ];
 
-$results = $speech->recognize(fopen($flac, 'w+'), $options);
+$results = $speech->recognize(fopen($flac, 'r'), $options);
 
 foreach ($results as $result) {
     echo 'Transcription: ' . $result->alternatives()[0]['transcript'] . PHP_EOL;
 }
 
-print_r($command);
+print_r($results);
 ?>
