@@ -1,0 +1,445 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.659673,35.808608 ]
+    },
+    "properties": {
+    "施設名":"けやき安全ステーション"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683211,35.812053 ]
+    },
+    "properties": {
+    "施設名":"ふれあい安全ステーション"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.665408,35.821343 ]
+    },
+    "properties": {
+    "施設名":"スポーツセンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.678698,35.817894 ]
+    },
+    "properties": {
+    "施設名":"ボランティア・市民活動支援センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680886,35.812592 ]
+    },
+    "properties": {
+    "施設名":"上戸田地域交流センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.645299,35.82119 ]
+    },
+    "properties": {
+    "施設名":"介護老人保健施設"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.672765,35.821057 ]
+    },
+    "properties": {
+    "施設名":"健康福祉の杜"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680306,35.809681 ]
+    },
+    "properties": {
+    "施設名":"児童センター(こどもの国)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.652395,35.81565 ]
+    },
+    "properties": {
+    "施設名":"児童センター(プリムロ一ズ)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.65552,35.82447 ]
+    },
+    "properties": {
+    "施設名":"北部公園野球場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.663166,35.819168 ]
+    },
+    "properties": {
+    "施設名":"図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680886,35.812592 ]
+    },
+    "properties": {
+    "施設名":"図書館上戸田分館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687369,35.810629 ]
+    },
+    "properties": {
+    "施設名":"図書館下戸田分室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.686615,35.805673 ]
+    },
+    "properties": {
+    "施設名":"図書館下戸田南分室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677453,35.80807 ]
+    },
+    "properties": {
+    "施設名":"図書館戸田公園駅前配本所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.642505,35.820887 ]
+    },
+    "properties": {
+    "施設名":"図書館美笹分室"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.663164,35.826173 ]
+    },
+    "properties": {
+    "施設名":"土地区画整理事務所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.660411,35.804513 ]
+    },
+    "properties": {
+    "施設名":"学校給食センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.208533,35.903653 ]
+    },
+    "properties": {
+    "施設名":"少年自然の家"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67795,35.81763 ]
+    },
+    "properties": {
+    "施設名":"市役所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.646069,35.821379 ]
+    },
+    "properties": {
+    "施設名":"市民医療センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.634383,35.817743 ]
+    },
+    "properties": {
+    "施設名":"彩湖自然学習センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.686615,35.805673 ]
+    },
+    "properties": {
+    "施設名":"心身障害者福祉センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677453,35.80807 ]
+    },
+    "properties": {
+    "施設名":"戸田公園駅前行政センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.058118,34.803849 ]
+    },
+    "properties": {
+    "施設名":"戸田市保養所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677405,35.818043 ]
+    },
+    "properties": {
+    "施設名":"教育センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.676398,35.817444 ]
+    },
+    "properties": {
+    "施設名":"文化会館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.669633,35.806702 ]
+    },
+    "properties": {
+    "施設名":"新曽南多世代交流館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.669633,35.806702 ]
+    },
+    "properties": {
+    "施設名":"新曽南庁舎"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.66394,35.814223 ]
+    },
+    "properties": {
+    "施設名":"新曽福祉センター(新曽公民館)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687369,35.810629 ]
+    },
+    "properties": {
+    "施設名":"東部福祉センター(下戸田公民館・東部連絡所)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.66196,35.816427 ]
+    },
+    "properties": {
+    "施設名":"消防本部"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.66196,35.816427 ]
+    },
+    "properties": {
+    "施設名":"消防署"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.682886,35.811251 ]
+    },
+    "properties": {
+    "施設名":"消防署東部分署"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.644932,35.817522 ]
+    },
+    "properties": {
+    "施設名":"消防署西部分署"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.655058,35.814929 ]
+    },
+    "properties": {
+    "施設名":"福祉作業所　かがやき"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.676275,35.804949 ]
+    },
+    "properties": {
+    "施設名":"福祉作業所　ゆうゆう"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.686615,35.805673 ]
+    },
+    "properties": {
+    "施設名":"福祉作業所もくせい園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.673669,35.821172 ]
+    },
+    "properties": {
+    "施設名":"福祉保健センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.649265,35.815439 ]
+    },
+    "properties": {
+    "施設名":"笹目コミュニティセンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.642505,35.820887 ]
+    },
+    "properties": {
+    "施設名":"美笹支所"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.642505,35.820887 ]
+    },
+    "properties": {
+    "施設名":"西部福祉センター(美笹公民館)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.678104,35.810012 ]
+    },
+    "properties": {
+    "施設名":"起業支援センター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.663166,35.819168 ]
+    },
+    "properties": {
+    "施設名":"郷土博物館"
+    }
+  }
+]
+}
