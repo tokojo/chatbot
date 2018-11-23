@@ -1,0 +1,1385 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6313374,35.8224398 ]
+    },
+    "properties": {
+    "名称":"彩湖道満グリーンパーク"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.695465,35.806581 ]
+    },
+    "properties": {
+    "名称":"喜沢南公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6574438,35.8031329 ]
+    },
+    "properties": {
+    "名称":"戸田公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67639,35.816893 ]
+    },
+    "properties": {
+    "名称":"後谷公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.644482,35.827047 ]
+    },
+    "properties": {
+    "名称":"新田公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.652393,35.818973 ]
+    },
+    "properties": {
+    "名称":"惣右衛門公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64285,35.81228 ]
+    },
+    "properties": {
+    "名称":"笹目公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.655644,35.824523 ]
+    },
+    "properties": {
+    "名称":"北部公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683581,35.813773 ]
+    },
+    "properties": {
+    "名称":"上町第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683274,35.816274 ]
+    },
+    "properties": {
+    "名称":"上町第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680392,35.817056 ]
+    },
+    "properties": {
+    "名称":"元蕨第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.681097,35.814813 ]
+    },
+    "properties": {
+    "名称":"元蕨第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6813459,35.8137502 ]
+    },
+    "properties": {
+    "名称":"元蕨第三公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677938,35.813423 ]
+    },
+    "properties": {
+    "名称":"東町公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67482,35.8136 ]
+    },
+    "properties": {
+    "名称":"鍛冶谷町公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.671315,35.812383 ]
+    },
+    "properties": {
+    "名称":"新田口公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.69758,35.810969 ]
+    },
+    "properties": {
+    "名称":"立野際公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.635128,35.828846 ]
+    },
+    "properties": {
+    "名称":"番匠免公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.63885,35.82924 ]
+    },
+    "properties": {
+    "名称":"重瀬公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.640066,35.82686 ]
+    },
+    "properties": {
+    "名称":"美女木公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.642688,35.824909 ]
+    },
+    "properties": {
+    "名称":"藪雨公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.63849,35.82451 ]
+    },
+    "properties": {
+    "名称":"堀ノ内公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.639498,35.822315 ]
+    },
+    "properties": {
+    "名称":"修行目公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64391,35.82225 ]
+    },
+    "properties": {
+    "名称":"砂場公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.641676,35.821018 ]
+    },
+    "properties": {
+    "名称":"美笹公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64612,35.821 ]
+    },
+    "properties": {
+    "名称":"柳坪公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64258,35.817314 ]
+    },
+    "properties": {
+    "名称":"天王公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.647747,35.818762 ]
+    },
+    "properties": {
+    "名称":"山宮公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.655767,35.819686 ]
+    },
+    "properties": {
+    "名称":"谷口公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.653835,35.815432 ]
+    },
+    "properties": {
+    "名称":"根木橋公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64993,35.81547 ]
+    },
+    "properties": {
+    "名称":"圃中公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.646843,35.814766 ]
+    },
+    "properties": {
+    "名称":"野竹公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.647318,35.810396 ]
+    },
+    "properties": {
+    "名称":"下町公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.643347,35.809052 ]
+    },
+    "properties": {
+    "名称":"夏浜公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.64613,35.80654 ]
+    },
+    "properties": {
+    "名称":"早瀬公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.69469,35.81366 ]
+    },
+    "properties": {
+    "名称":"後第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.69788,35.8148 ]
+    },
+    "properties": {
+    "名称":"後第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.690665,35.811682 ]
+    },
+    "properties": {
+    "名称":"氷川公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.693486,35.810326 ]
+    },
+    "properties": {
+    "名称":"喜沢第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6971,35.8085 ]
+    },
+    "properties": {
+    "名称":"喜沢第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6463214,35.8283326 ]
+    },
+    "properties": {
+    "名称":"外仲田公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.65213,35.82139 ]
+    },
+    "properties": {
+    "名称":"山宮北公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.658511,35.821602 ]
+    },
+    "properties": {
+    "名称":"谷口北公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.652363,35.809952 ]
+    },
+    "properties": {
+    "名称":"笹目南公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.664599,35.809917 ]
+    },
+    "properties": {
+    "名称":"馬場公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.686188,35.803876 ]
+    },
+    "properties": {
+    "名称":"川岸公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68433,35.80802 ]
+    },
+    "properties": {
+    "名称":"下前公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683888,35.813154 ]
+    },
+    "properties": {
+    "名称":"下戸田第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68605,35.813165 ]
+    },
+    "properties": {
+    "名称":"下戸田第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.675409,35.820118 ]
+    },
+    "properties": {
+    "名称":"後谷第二公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.685038,35.817781 ]
+    },
+    "properties": {
+    "名称":"荒井前公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67892,35.819358 ]
+    },
+    "properties": {
+    "名称":"後谷第一公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691907,35.813306 ]
+    },
+    "properties": {
+    "名称":"中町公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.650569,35.804133 ]
+    },
+    "properties": {
+    "名称":"早瀬東公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.653822,35.812131 ]
+    },
+    "properties": {
+    "名称":"笹目南さくら公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.659983,35.808924 ]
+    },
+    "properties": {
+    "名称":"けやき公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67041,35.810338 ]
+    },
+    "properties": {
+    "名称":"本村公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687277,35.81256 ]
+    },
+    "properties": {
+    "名称":"下戸田１丁目児童公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.656616,35.809529 ]
+    },
+    "properties": {
+    "名称":"上前谷遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6949265,35.8046198 ]
+    },
+    "properties": {
+    "名称":"喜沢南児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677972,35.806002 ]
+    },
+    "properties": {
+    "名称":"本町５丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.661719,35.807773 ]
+    },
+    "properties": {
+    "名称":"新曽南４丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.675549,35.816751 ]
+    },
+    "properties": {
+    "名称":"後谷児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.652997,35.812282 ]
+    },
+    "properties": {
+    "名称":"根木橋児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.694453,35.810939 ]
+    },
+    "properties": {
+    "名称":"喜沢２丁目児童公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.672216,35.806358 ]
+    },
+    "properties": {
+    "名称":"曲尺手遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.674381,35.820527 ]
+    },
+    "properties": {
+    "名称":"稲荷木公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.669382,35.812967 ]
+    },
+    "properties": {
+    "名称":"新曽柳原児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67008,35.80613 ]
+    },
+    "properties": {
+    "名称":"菖蒲遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.697145,35.809655 ]
+    },
+    "properties": {
+    "名称":"立野際小公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.658203,35.809648 ]
+    },
+    "properties": {
+    "名称":"氷川町児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.679796,35.810619 ]
+    },
+    "properties": {
+    "名称":"本町１丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.661636,35.809522 ]
+    },
+    "properties": {
+    "名称":"氷川町１丁目児童公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.674455,35.803673 ]
+    },
+    "properties": {
+    "名称":"南町児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.666837,35.810011 ]
+    },
+    "properties": {
+    "名称":"馬場ふれあい公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6813098,35.8076766 ]
+    },
+    "properties": {
+    "名称":"本町４丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6902494,35.8086874 ]
+    },
+    "properties": {
+    "名称":"中町２丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.672725,35.805664 ]
+    },
+    "properties": {
+    "名称":"南町児童公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.674705,35.808132 ]
+    },
+    "properties": {
+    "名称":"本町２丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68176,35.803109 ]
+    },
+    "properties": {
+    "名称":"川岸３丁目遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.668418,35.809999 ]
+    },
+    "properties": {
+    "名称":"新曽南１丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68321,35.810431 ]
+    },
+    "properties": {
+    "名称":"下前１丁目遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6775246,35.8079 ]
+    },
+    "properties": {
+    "名称":"戸田公園駅西口緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6580739,35.8078187 ]
+    },
+    "properties": {
+    "名称":"緩衝緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6704514,35.814468 ]
+    },
+    "properties": {
+    "名称":"新曽沖内児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6576841,35.8107807 ]
+    },
+    "properties": {
+    "名称":"氷川町２丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6935128,35.806932 ]
+    },
+    "properties": {
+    "名称":"喜沢南１丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6851741,35.807392 ]
+    },
+    "properties": {
+    "名称":"下前児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6591216,35.8147838 ]
+    },
+    "properties": {
+    "名称":"新曽北町児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6513121,35.8032743 ]
+    },
+    "properties": {
+    "名称":"早瀬児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6952981,35.8095517 ]
+    },
+    "properties": {
+    "名称":"喜沢２丁目児童遊園地（アリスの広場含む）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6907088,35.8068746 ]
+    },
+    "properties": {
+    "名称":"喜沢南２丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.670397,35.809327 ]
+    },
+    "properties": {
+    "名称":"本町3丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6844522,35.8042104 ]
+    },
+    "properties": {
+    "名称":"川岸児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6516815,35.8129048 ]
+    },
+    "properties": {
+    "名称":"南根木橋児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6628901,35.8263779 ]
+    },
+    "properties": {
+    "名称":"芦原ちびっこ広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6757295,35.8149314 ]
+    },
+    "properties": {
+    "名称":"後谷団地児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683898,35.8019553 ]
+    },
+    "properties": {
+    "名称":"戸田橋下広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6639705,35.8075641 ]
+    },
+    "properties": {
+    "名称":"新曽南児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6478966,35.8305903 ]
+    },
+    "properties": {
+    "名称":"向田児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6803327,35.8049259 ]
+    },
+    "properties": {
+    "名称":"上前児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6940564,35.8073213 ]
+    },
+    "properties": {
+    "名称":"喜沢南児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6422649,35.8092236 ]
+    },
+    "properties": {
+    "名称":"笹目夏浜児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6462696,35.8094725 ]
+    },
+    "properties": {
+    "名称":"下笹目住宅緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6860881,35.8069397 ]
+    },
+    "properties": {
+    "名称":"下前稲荷広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6570658,35.8175829 ]
+    },
+    "properties": {
+    "名称":"笹目一丁目児童遊園地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6832543,35.8123701 ]
+    },
+    "properties": {
+    "名称":"下戸田ミニパーク"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6855283,35.8023705 ]
+    },
+    "properties": {
+    "名称":"川岸ミニパーク"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6774835,35.8053632 ]
+    },
+    "properties": {
+    "名称":"上前公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.673992,35.806231 ]
+    },
+    "properties": {
+    "名称":"みにばら広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6995589,35.7988841 ]
+    },
+    "properties": {
+    "名称":"川岸運動公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6544116,35.8074002 ]
+    },
+    "properties": {
+    "名称":"笹目川親水公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.681882,35.8026842 ]
+    },
+    "properties": {
+    "名称":"戸田橋親水公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6582242,35.8014591 ]
+    },
+    "properties": {
+    "名称":"荒川親水公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6658137,35.8131696 ]
+    },
+    "properties": {
+    "名称":"緑地公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6890668,35.8069287 ]
+    },
+    "properties": {
+    "名称":"こぶし公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6772658,35.8208746 ]
+    },
+    "properties": {
+    "名称":"前谷公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6710195,35.8021831 ]
+    },
+    "properties": {
+    "名称":"戸田桜づつみ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6396386,35.8183321 ]
+    },
+    "properties": {
+    "名称":"せせらぎ遊歩道"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6677806,35.8065333 ]
+    },
+    "properties": {
+    "名称":"下町さくら東ひろば"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6663591,35.8066415 ]
+    },
+    "properties": {
+    "名称":"下町さくら中央ひろば"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6641251,35.8067979 ]
+    },
+    "properties": {
+    "名称":"下町さくら西ひろば"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6580905,35.8072764 ]
+    },
+    "properties": {
+    "名称":"氷川町さくらひろば"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6630476,35.8136189 ]
+    },
+    "properties": {
+    "名称":"新曽新田公共広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6771149,35.8195032 ]
+    },
+    "properties": {
+    "名称":"上戸田４丁目緑道"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6414516,35.8144568 ]
+    },
+    "properties": {
+    "名称":"野竹さくら広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6405465,35.8155859 ]
+    },
+    "properties": {
+    "名称":"天王さくら広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6716458,35.8174005 ]
+    },
+    "properties": {
+    "名称":"住民広場（新曽小玉）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6435996,35.8065093 ]
+    },
+    "properties": {
+    "名称":"住民広場（笹目７丁目）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6846101,35.8078187 ]
+    },
+    "properties": {
+    "名称":"下前公園ゲートボール場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6713767,35.821781 ]
+    },
+    "properties": {
+    "名称":"新曽小玉広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6748583,35.810915 ]
+    },
+    "properties": {
+    "名称":"かじやさくら緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.668279,35.8230074 ]
+    },
+    "properties": {
+    "名称":"柳原広場"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6577152,35.8209689 ]
+    },
+    "properties": {
+    "名称":"第一号市民緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.661432,35.8155655 ]
+    },
+    "properties": {
+    "名称":"第2号市民緑地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6575269,35.8139691 ]
+    },
+    "properties": {
+    "名称":"3号緑地公園(戸田市管理)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6383325,35.8176989 ]
+    },
+    "properties": {
+    "名称":"荒川水循環センター上部公園"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6629704,35.8155629 ]
+    },
+    "properties": {
+    "名称":"新田ふれあい噴水公園"
+    }
+  }
+]
+}
